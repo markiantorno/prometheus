@@ -1,0 +1,41 @@
+org/hl7/fhir/core/generator/codegen/JavaBaseGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaBaseGenerator
+org/hl7/fhir/core/generator/analysis/Analysis.java
+ org.hl7.fhir.core.generator.analysis.Analysis
+org/hl7/fhir/core/generator/codegen/JavaResourceGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaResourceGenerator
+ org.hl7.fhir.core.generator.codegen.JavaResourceGenerator$JavaGenClass
+org/hl7/fhir/core/generator/codegen/JavaParserXmlGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaParserXmlGenerator
+org/hl7/fhir/core/generator/codegen/JavaParserRdfGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaParserRdfGenerator
+org/hl7/fhir/core/generator/codegen/todo/JavaPatternImplGenerator.java
+ org.hl7.fhir.core.generator.codegen.todo.JavaPatternImplGenerator
+org/hl7/fhir/core/generator/codegen/JavaConstantsGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaConstantsGenerator
+org/hl7/fhir/core/generator/engine/Definitions.java
+ org.hl7.fhir.core.generator.engine.Definitions
+org/hl7/fhir/core/generator/analysis/TypeInfo.java
+ org.hl7.fhir.core.generator.analysis.TypeInfo
+org/hl7/fhir/core/generator/analysis/Analyser.java
+ org.hl7.fhir.core.generator.analysis.Analyser
+org/hl7/fhir/core/generator/codegen/JavaTypeGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaTypeGenerator
+org/hl7/fhir/core/generator/codegen/todo/JavaConverterGenerator.java
+ org.hl7.fhir.core.generator.codegen.todo.JavaConverterGenerator
+org/hl7/fhir/core/generator/codegen/JavaFactoryGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaFactoryGenerator
+org/hl7/fhir/core/generator/engine/DefinitionsLoader.java
+ org.hl7.fhir.core.generator.engine.DefinitionsLoader
+org/hl7/fhir/core/generator/codegen/todo/JavaPatternIntfGenerator.java
+ org.hl7.fhir.core.generator.codegen.todo.JavaPatternIntfGenerator
+org/hl7/fhir/core/generator/codegen/JavaParserJsonGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaParserJsonGenerator
+org/hl7/fhir/core/generator/codegen/Configuration.java
+ org.hl7.fhir.core.generator.codegen.Configuration
+org/hl7/fhir/core/generator/analysis/EnumInfo.java
+ org.hl7.fhir.core.generator.analysis.EnumInfo
+org/hl7/fhir/core/generator/codegen/JavaEnumerationsGenerator.java
+ org.hl7.fhir.core.generator.codegen.JavaEnumerationsGenerator
+org/hl7/fhir/core/generator/engine/JavaCoreGenerator.java
+ org.hl7.fhir.core.generator.engine.JavaCoreGenerator
